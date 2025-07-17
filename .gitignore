@@ -1,0 +1,33 @@
+# Python related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.egg-info/
+.eggs/
+
+# Scrapy related
+.scrapy/
+logs/
+output/
+*.jl
+*.csv
+*.json
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# dotenv
+.env
+
+# Byte-compiled / cache
+*.pyc
